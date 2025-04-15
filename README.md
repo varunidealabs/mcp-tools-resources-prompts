@@ -122,7 +122,7 @@ def divide(a: float, b: float) -> str:
    - Division by zero prevention
    - Type-safe operations
    - Clear error messaging
-   ```
+     
 
 3. **Type Annotations**
    - Use Python type hints
